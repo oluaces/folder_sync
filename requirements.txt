@@ -1,0 +1,4 @@
+# Dependencias de ejecución de FolderSync
+# (solo usa QtCore, QtGui y QtWidgets, así que basta con PySide6-Essentials;
+#  si prefieres el paquete completo: pip install PySide6)
+PySide6-Essentials>=6.5
