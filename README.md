@@ -167,4 +167,4 @@ Notas:
 
 ## Licencia
 
-Distribuido bajo la licencia MIT. Añade un archivo `LICENSE` con el texto completo antes de publicar.
+Distribuido bajo la licencia MIT.
