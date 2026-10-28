@@ -165,10 +165,6 @@ Notas:
 └── README.md
 ```
 
-## Contribuir
-
-Los *issues* y *pull requests* son bienvenidos. Si encuentras un problema, indica el sistema operativo, el sistema de archivos de las carpetas implicadas (APFS, NTFS, exFAT…) y, si es posible, el texto de la columna «Motivo» del informe.
-
 ## Licencia
 
 Distribuido bajo la licencia MIT. Añade un archivo `LICENSE` con el texto completo antes de publicar.
