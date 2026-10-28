@@ -4,9 +4,14 @@
 ![PySide6](https://img.shields.io/badge/GUI-PySide6-41cd52)
 ![Licencia](https://img.shields.io/badge/licencia-MIT-lightgrey)
 
+> Desarrollado con la ayuda de [Claude](https://claude.ai) (Anthropic).
+
 **FolderSync** es un sincronizador de carpetas con interfaz gráfica (PySide6) que **te enseña un informe detallado de lo que va a hacer antes de tocar ningún archivo**. Tú decides, operación por operación, qué se ejecuta.
 
 <!-- Añade aquí una captura de pantalla: ![Captura de FolderSync](docs/screenshot.png) -->
+
+![Captura de FolderSync](docs/screenshot1.png)
+![Captura de FolderSync](docs/screenshot2.png)
 
 ## Características
 
